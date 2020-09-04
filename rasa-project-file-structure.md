@@ -11,3 +11,19 @@
 | `domain.yml` ‘*’            | your assistant’s domain                              |
 | `endpoints.yml`             | details for connecting to channels like fb messenger |
 | `models/<timestamp>.tar.gz` | your initial model                                   |
+
+
+```
+.
+├── __init__.py
+├── actions.py
+├── config.yml
+├── credentials.yml
+├── data
+│   ├── nlu.md
+│   └── stories.md
+├── domain.yml
+├── endpoints.yml
+└── models
+    └── <timestamp>.tar.gz
+```
