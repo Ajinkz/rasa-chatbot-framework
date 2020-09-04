@@ -1,3 +1,5 @@
+## Important commands
+
 ### To start new project 
 - `rasa init`
 
@@ -10,7 +12,9 @@
 ### To test bot with web socket/api
 - `rasa run --cors "*" --debug --enable-api`
 
-### list of all possible commands
+---
+
+## List of all possible commands
 
 | Command               | Effect                                                                                           |
 |-----------------------|--------------------------------------------------------------------------------------------------|
